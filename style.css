@@ -1,0 +1,13 @@
+h1{
+    display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size: 40px;
+   
+    
+}
+
+.alignleft { 
+    float: left; padding: 25px 15px 15px 0; 
+
+}
