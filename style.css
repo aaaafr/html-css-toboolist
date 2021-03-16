@@ -11,3 +11,147 @@ h1{
     float: left; padding: 25px 15px 15px 0; 
 
 }
+
+main{
+    border: 150px solid rgba(230, 227, 227, 0.651);
+    width: 900px;
+    height: 1000px;
+    margin: auto;
+    border-radius: 10px;
+    line-height: 18px;
+    
+}
+
+#button_blue{
+    background-color:deepskyblue;
+    color:white;
+    border: 1px solid white;
+    border-radius: 6px;
+    margin-left:30px;
+    margin-top:10px;
+
+}
+
+
+#button_grey{
+    background-color:white;
+    color:lightgray;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    margin-left:0.1px;
+    margin-top:10px;
+    
+
+}
+
+
+
+
+h3{
+    margin-left:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+div{
+    margin-left: 30px;
+}
+p{
+    position: relative; bottom:45px;
+    margin-left:30px
+    
+    
+} 
+
+.cerchio1{
+    font-size: 40px;
+    color: green;
+    
+}
+
+.spunta{
+    position: relative; right:17px; bottom:5px;
+    font-size: 15px;
+    color:green;
+ 
+}
+
+#editorial{
+    background-color: deepskyblue;
+    border: 6px solid deepskyblue;
+    border-radius: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:white;
+    position: relative; left:5px;
+}
+
+
+#goals{
+    background-color: rgba(188, 75, 233, 0.842);
+    border: 6px solid  rgba(188, 75, 233, 0.842);
+    border-radius: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:white;
+    position: relative; left:5px;
+}
+
+.cerchio2{
+    font-size: 40px;
+    color:red;
+    
+}
+
+.spunta2{
+    position: relative; right:17px; bottom:5px;
+    font-size: 15px;
+    color:red;
+}
+ 
+
+#recruiting{
+    background-color: rgba(43, 202, 136, 0.911);
+    border: 6px solid rgba(43, 202, 136, 0.911);
+    border-radius: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:white;
+    position: relative; left:5px;
+
+}
+
+
+#mobile{
+    background-color: rgba(218, 130, 15, 0.911);
+    border: 6px solid rgba(218, 130, 15, 0.911);
+    border-radius: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:white;
+    position: relative; left:5px;
+
+}
+
+
+#website{
+    background-color: rgba(233, 43, 148, 0.911);
+    border: 6px solid rgba(233, 43, 148, 0.911);
+    border-radius: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:white;
+    position: relative; left:5px;
+
+}
+
+#sales{
+    background-color:  rgba(131, 240, 29, 0.911);
+    border: 6px solid rgba(131, 240, 29, 0.911);
+    border-radius: 9px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:white;
+    position: relative; left:5px;
+    
+}
